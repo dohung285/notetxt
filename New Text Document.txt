@@ -1,0 +1,7 @@
+rabbitmq-plugins enable rabbitmq_management
+
+
+https://softwareengineering.stackexchange.com/questions/378204/file-storage-microservice-design
+
+
+https://stackoverflow.com/questions/59498478/spring-boot-upload-files-on-remote-machine
